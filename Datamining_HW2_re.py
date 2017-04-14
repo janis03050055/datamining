@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# In[57]:
-
 import re        #導入正規表示式
 import requests  #想入第三方http
 link = "http://www.rarbt.com"
